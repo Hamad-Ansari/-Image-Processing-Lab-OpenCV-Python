@@ -102,3 +102,11 @@ import cv2          # Image manipulation, transformations, and thresholding algo
 import numpy as np  # N-dimensional matrix operations & element-wise linear algebra
 import matplotlib.pyplot as plt  # High-fidelity data visualization
 from google.colab import files   # Runtime local file system interfacing
+```
+# 📁 Repository Blueprint
+```
+image-processing-lab/
+│
+├── image_processing_lab.ipynb   # Primary Jupyter/Colab Interactive Workspace
+└── README.md                    # Technical System Documentation
+```
